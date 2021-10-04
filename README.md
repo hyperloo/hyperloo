@@ -18,7 +18,7 @@
 </div>
  -->
 
-> 🇮🇳 _'Thappad se dar nahi lagta sahab, bugs aur typos se lagta hai' but still 'Seh Lenge Thoda'_ > <br/>
+> 🇮🇳 _'Thappad se dar nahi lagta sahab, bugs aur typos se lagta hai' but still 'Seh Lenge Thoda'_ <br/>
 > 🇬🇧 _'Bugs and Typos scares us the most' but still 'Lets bear it'_
 
 <img alt="Banner" src ="https://raw.githubusercontent.com/hyperloo/hyperloo/master/assets/2.png"/>
