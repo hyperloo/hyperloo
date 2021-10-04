@@ -22,9 +22,6 @@
 
 <img alt="Banner" src ="https://raw.githubusercontent.com/hyperloo/hyperloo/master/assets/banner.png" width="100%" />
 
-<br/>
-<br/>
-
 ---
 
 <p align="center">
@@ -32,8 +29,6 @@
 </p>
 
 ---
-
-<br/>
 
 ## Indian by heart, Developer by profession and Explorer by Interest
 
@@ -45,11 +40,7 @@
 
 ---
 
-<br/>
-
 <h2 align="center">🚀 Languages and Tools I used</h2>
-
-<br/>
 
 <p align="center">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -118,13 +109,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperloo&layout=compact&theme=algolia" />
 </p>
   
-  ---
-<div>
+<div align="center">
 <h2 align="center">⭐ Starred Repository</h2>
 
 | <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyperloo&repo=UrlCompressor-Server&show_owner=true&theme=algolia" alt="" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyperloo&repo=TaskManager-Server&show_owner=true&theme=algolia" alt="TaskManager-Server" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+  </div>
+  
 ## I aspire to
 
 -   Work on Backend Tech
