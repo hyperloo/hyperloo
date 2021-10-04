@@ -47,7 +47,7 @@
 
 <br/>
 
-## <center>🚀 Languages and Tools I used</center>
+<h2 align="center">🚀 Languages and Tools I used</h2>
 
 <br/>
 
