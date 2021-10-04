@@ -125,20 +125,20 @@
 | <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyperloo&repo=UrlCompressor-Server&show_owner=true&theme=algolia" alt="" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyperloo&repo=TaskManager-Server&show_owner=true&theme=algolia" alt="TaskManager-Server" /> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## <center>Wanna </center>
+## I aspire to
 
 -   Work on Backend Tech
 -   Learn New Technologies
 -   Build new libraries that can be directly usable
 -   Learn & explore the field of ML and DL
 
-## <center>🤝 Get in Touch</center>
+## 🤝 Get in Touch
 
-<p align="center">
-<a href="https://tekhin3.netlify.app" align="center"><img align="center" src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://tekhin3.netlify.app"  alt="Portfolio" /></a>
+<p>
+<a href="https://tekhin3.netlify.app"><img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://tekhin3.netlify.app"  alt="Portfolio" /></a>
 </a>
-<a  align="center" href="https://linkedin.com/in/himanshu-singh-1b8009176" align="center"><img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a>
-<a  align="center" href="mailto:hack.himanshu1024@gmail.com" align="center"><img align="center" src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=Gmail" alt="gmail"/></a>
+<a  href="https://linkedin.com/in/himanshu-singh-1b8009176"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a>
+<a  href="mailto:hack.himanshu1024@gmail.com"><img src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=Gmail" alt="gmail"/></a>
 
 </p>
 
