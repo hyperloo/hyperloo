@@ -18,20 +18,10 @@
 </div>
  -->
 
-> 🇮🇳 _'Thappad se dar nahi lagta sahab, bugs aur typos se lagta hai'_ but still 'Seh Lenge Thoda'_
-> <br/>
-> 🇬🇧 _'Bugs and Typos scares us the most' but still 'Lets bear it'\*
+> 🇮🇳 _'Thappad se dar nahi lagta sahab, bugs aur typos se lagta hai' but still 'Seh Lenge Thoda'_ > <br/>
+> 🇬🇧 _'Bugs and Typos scares us the most' but still 'Lets bear it'_
 
-<div style="padding:1.5rem; border-radius:6px; background-color: #70a2e8; box-sizing:border-box;">
-  <div style="padding:1.5rem; border-radius:10px; background-color: #fff; display:flex; align-items:center; flex-wrap:wrap; justify-content:center; height:100%; box-sizing:border-box; gap:1rem; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
-    <div style="min-width:275px; max-width:450px; flex:1; color:#1c1c1c;">
-      <img style="width: 95%; height:auto;" src="https://raw.githubusercontent.com/hyperloo/hyperloo/master/assets/3.png" />
-    </div>
-    <div style="height:100%;">
-      <img style="width: 95%; max-width:250px; height:auto;" src="https://raw.githubusercontent.com/hyperloo/hyperloo/master/assets/hero.png" />
-    </div>
-  </div>
-</div>
+<img alt="Banner" src ="https://raw.githubusercontent.com/hyperloo/hyperloo/master/assets/2.png"/>
 
 <h2> <i> I can convert your thoughts into code. </i> <h2>
 <h1>Hi , I am Himanshu 👋</h1>
